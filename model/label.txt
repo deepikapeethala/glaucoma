@@ -1,0 +1,2 @@
+1 glaucoma
+0 non-glaucoma
